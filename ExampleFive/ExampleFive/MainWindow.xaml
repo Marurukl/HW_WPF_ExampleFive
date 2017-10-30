@@ -1,0 +1,28 @@
+﻿<Window x:Class="ExampleFive.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExampleFive"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="5*"/>
+        </Grid.RowDefinitions>
+        <WebBrowser x:Name="userWebBrowser" Source="http://www.google.com" Grid.Row="1"/>
+        <TextBox x:Name="linkTextBox" Height="23" Margin="0,30,54,0" Text="https://" VerticalAlignment="Top"/>
+        <Button x:Name="favoriteButton" Margin="0,30,0,0" HorizontalAlignment="Right" Width="22" Height="22" VerticalAlignment="Top" Click="FavoriteButton_Click">
+            <Image Source="star-empty_icon-icons.com_53874.png"/>
+        </Button>
+        <Menu x:Name="menu" Height="25" VerticalAlignment="Top">
+            <MenuItem Header="Favorites">
+                <ComboBox x:Name="favoritesComboBox"  SelectionChanged="FavoritesComboBox_SelectionChanged" />
+            </MenuItem>
+        </Menu>
+        <Button x:Name="goButton"  Margin="0,30,27,0" HorizontalAlignment="Right" Width="22" Height="22" VerticalAlignment="Top" Click="GOButton_Click">
+            <Image Source="go-function-browser-interface-512.png"/>
+        </Button>
+    </Grid>
+</Window>

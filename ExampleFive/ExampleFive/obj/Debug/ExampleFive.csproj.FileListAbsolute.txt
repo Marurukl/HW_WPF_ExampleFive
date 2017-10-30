@@ -1,0 +1,14 @@
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleFive\ExampleFive\bin\Debug\ExampleFive.exe.config
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleFive\ExampleFive\bin\Debug\ExampleFive.exe
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleFive\ExampleFive\bin\Debug\ExampleFive.pdb
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleFive\ExampleFive\obj\Debug\ExampleFive.csprojResolveAssemblyReference.cache
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleFive\ExampleFive\obj\Debug\MainWindow.g.cs
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleFive\ExampleFive\obj\Debug\App.g.cs
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleFive\ExampleFive\obj\Debug\ExampleFive_MarkupCompile.cache
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleFive\ExampleFive\obj\Debug\ExampleFive_MarkupCompile.lref
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleFive\ExampleFive\obj\Debug\MainWindow.baml
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleFive\ExampleFive\obj\Debug\ExampleFive.g.resources
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleFive\ExampleFive\obj\Debug\ExampleFive.Properties.Resources.resources
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleFive\ExampleFive\obj\Debug\ExampleFive.csproj.GenerateResource.Cache
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleFive\ExampleFive\obj\Debug\ExampleFive.exe
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleFive\ExampleFive\obj\Debug\ExampleFive.pdb
